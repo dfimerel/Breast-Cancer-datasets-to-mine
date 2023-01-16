@@ -22,7 +22,9 @@ Contains gene expression, DNA mutations, CNA and other from cancer cell lines
 
 ### Metastatic BC
 Here you can find various datasets with different molecular data
-* [Phylogenetic reconstruction of breast cancer reveals two routes of metastatic dissemination associated with distinct clinical outcome](https://www.sciencedirect.com/science/article/pii/S2352396420301687)
-* [Characterization of Stromal Tumor-infiltrating Lymphocytes and Genomic Alterations in Metastatic Lobular Breast Cancer](https://clincancerres.aacrjournals.org/content/26/23/6254.long)
-* [Genomic and Transcriptomic Analyses of Breast Cancer Primaries and Matched Metastases in AURORA, the Breast International Group (BIG) Molecular Screening Initiative](https://aacrjournals.org/cancerdiscovery/article/11/11/2796/666417/Genomic-and-Transcriptomic-Analyses-of-Breast)
-* [Multiomics in primary and metastatic breast tumors from the AURORA US network finds microenvironment and epigenetic drivers of metastasis](https://www.nature.com/articles/s43018-022-00491-x)
+* [Phylogenetic reconstruction of breast cancer reveals two routes of metastatic dissemination associated with distinct clinical outcome](https://doi.org/10.1016/j.ebiom.2020.102793)
+* [Characterization of Stromal Tumor-infiltrating Lymphocytes and Genomic Alterations in Metastatic Lobular Breast Cancer](https://doi.org/10.1158/1078-0432.CCR-20-2268)
+* [Genomic and Transcriptomic Analyses of Breast Cancer Primaries and Matched Metastases in AURORA, the Breast International Group (BIG) Molecular Screening Initiative](https://doi.org/10.1158/2159-8290.CD-20-1647)
+* [Multiomics in primary and metastatic breast tumors from the AURORA US network finds microenvironment and epigenetic drivers of metastasis](https://doi.org/10.1038/s43018-022-00491-x)
+* [Genomic characterization of metastatic breast cancers](https://doi.org/10.1038/s41586-019-1056-z)
+* [Genomic characterization of metastatic patterns from prospective clinical sequencing of 25,000 patients](https://doi.org/10.1016/j.cell.2022.01.003)
