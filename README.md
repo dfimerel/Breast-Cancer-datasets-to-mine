@@ -28,3 +28,7 @@ Here you can find various datasets with different molecular data
 * [Multiomics in primary and metastatic breast tumors from the AURORA US network finds microenvironment and epigenetic drivers of metastasis](https://doi.org/10.1038/s43018-022-00491-x)
 * [Genomic characterization of metastatic breast cancers](https://doi.org/10.1038/s41586-019-1056-z)
 * [Genomic characterization of metastatic patterns from prospective clinical sequencing of 25,000 patients](https://doi.org/10.1016/j.cell.2022.01.003)
+* [The genomic landscape of metastatic breast cancer highlights changes in mutation and signature frequencies](https://doi.org/10.1038/s41588-019-0507-7)
+* [Genomic landscape of metastatic breast cancer identifies preferentially dysregulated pathways and targets](10.1172/JCI129941)
+* [Integrated RNA and DNA sequencing reveals early drivers of metastatic breast cancer](10.1172/JCI96153)
+
