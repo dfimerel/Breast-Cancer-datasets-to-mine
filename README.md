@@ -20,6 +20,11 @@ Contains exome mutations focused on common cancer related genes
 Contains gene expression, DNA mutations, CNA and other from cancer cell lines
 * [Cancer Cell Line Encyclopedia](https://depmap.org/portal/download/)
 
+### Early-stage BC
+Here you can find various datasets with different molecular data
+* [RNA sequencing-based single sample predictors of molecular subtype and risk of recurrence for clinical assessment of early-stage breast cancer](https://doi.org/10.1038/s41523-022-00465-3)
+
+
 ### Metastatic BC
 Here you can find various datasets with different molecular data
 * [Phylogenetic reconstruction of breast cancer reveals two routes of metastatic dissemination associated with distinct clinical outcome](https://doi.org/10.1016/j.ebiom.2020.102793)
