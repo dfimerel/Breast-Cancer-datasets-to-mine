@@ -41,3 +41,5 @@ Here you can find various datasets with different molecular data
 Here you can find single-cell datasets
 * [A single-cell and spatially resolved atlas of human breast cancers](https://www.nature.com/articles/s41588-021-00911-1)
 * [Single-cell RNA sequencing reveals cell heterogeneity and transcriptome profile of breast cancer lymph node metastasis](https://www.nature.com/articles/s41389-021-00355-6#Abs1)
+* [A single-cell RNA expression atlas of normal, preneoplastic and tumorigenic states in the human breast](https://www.embopress.org/doi/full/10.15252/embj.2020107333)
+* [A single-cell map of intratumoral changes during anti-PD1 treatment of patients with breast cancer](https://www.nature.com/articles/s41591-021-01323-8)
