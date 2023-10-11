@@ -43,3 +43,4 @@ Here you can find single-cell datasets
 * [Single-cell RNA sequencing reveals cell heterogeneity and transcriptome profile of breast cancer lymph node metastasis](https://www.nature.com/articles/s41389-021-00355-6#Abs1)
 * [A single-cell RNA expression atlas of normal, preneoplastic and tumorigenic states in the human breast](https://www.embopress.org/doi/full/10.15252/embj.2020107333)
 * [A single-cell map of intratumoral changes during anti-PD1 treatment of patients with breast cancer](https://www.nature.com/articles/s41591-021-01323-8)
+* [Stromal cell diversity associated with immune evasion in human triple-negative breast cancer](https://www.embopress.org/doi/full/10.15252/embj.2019104063)
