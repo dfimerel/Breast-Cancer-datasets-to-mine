@@ -45,6 +45,6 @@ Here you can find single-cell datasets
 * [A single-cell map of intratumoral changes during anti-PD1 treatment of patients with breast cancer](https://www.nature.com/articles/s41591-021-01323-8)
 * [Stromal cell diversity associated with immune evasion in human triple-negative breast cancer](https://www.embopress.org/doi/full/10.15252/embj.2019104063)
 
-  ### Spatially resolved datasets
-  Here you can find spatially resolved datasets
+### Spatially resolved datasets
+Here you can find spatially resolved datasets
   
