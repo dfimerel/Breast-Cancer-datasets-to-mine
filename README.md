@@ -21,12 +21,12 @@ Contains gene expression, DNA mutations, CNA and other from cancer cell lines
 * [Cancer Cell Line Encyclopedia](https://depmap.org/portal/download/)
 
 ### Early-stage BC
-Here you can find various datasets with different molecular data
+Here you can find datasets with different molecular data in early-stage BC
 * [RNA sequencing-based single sample predictors of molecular subtype and risk of recurrence for clinical assessment of early-stage breast cancer](https://doi.org/10.1038/s41523-022-00465-3)
 
 
 ### Metastatic BC
-Here you can find various datasets with different molecular data
+Here you can find datasets with different molecular data in metastatic BC
 * [Phylogenetic reconstruction of breast cancer reveals two routes of metastatic dissemination associated with distinct clinical outcome](https://doi.org/10.1016/j.ebiom.2020.102793)
 * [Characterization of Stromal Tumor-infiltrating Lymphocytes and Genomic Alterations in Metastatic Lobular Breast Cancer](https://doi.org/10.1158/1078-0432.CCR-20-2268)
 * [Genomic and Transcriptomic Analyses of Breast Cancer Primaries and Matched Metastases in AURORA, the Breast International Group (BIG) Molecular Screening Initiative](https://doi.org/10.1158/2159-8290.CD-20-1647)
@@ -48,4 +48,5 @@ Here you can find single-cell datasets
 
 ### Spatially resolved datasets
 Here you can find spatially resolved datasets
-  
+* [Spatial deconvolution of HER2-positive breast cancer delineates tumor-associated cell type interactions](https://www.nature.com/articles/s41467-021-26271-2)
+
