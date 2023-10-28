@@ -37,7 +37,7 @@ Here you can find datasets with different molecular data in metastatic BC
 * [Genomic landscape of metastatic breast cancer identifies preferentially dysregulated pathways and targets](10.1172/JCI129941)
 * [Integrated RNA and DNA sequencing reveals early drivers of metastatic breast cancer](10.1172/JCI96153)
 
-### Single-cell datasets
+### Single-cell transcriptomics (and genomics) datasets
 Here you can find single-cell datasets
 * [A single-cell and spatially resolved atlas of human breast cancers](https://www.nature.com/articles/s41588-021-00911-1)
 * [Single-cell RNA sequencing reveals cell heterogeneity and transcriptome profile of breast cancer lymph node metastasis](https://www.nature.com/articles/s41389-021-00355-6#Abs1)
@@ -46,7 +46,7 @@ Here you can find single-cell datasets
 * [Stromal cell diversity associated with immune evasion in human triple-negative breast cancer](https://www.embopress.org/doi/full/10.15252/embj.2019104063)
 * [Unravelling subclonal heterogeneity and aggressive disease states in TNBC through single-cell RNA-seq](https://www.nature.com/articles/s41467-018-06052-0#Abs1)
 
-### Spatially resolved datasets
-Here you can find spatially resolved datasets
+### Spatial transcriptomics datasets
+Here you can find spatial transcriptomics datasets
 * [Spatial deconvolution of HER2-positive breast cancer delineates tumor-associated cell type interactions](https://www.nature.com/articles/s41467-021-26271-2)
 * [Spatial transcriptomic analysis of a diverse patient cohort reveals a conserved architecture in triple-negative breast cancer](https://aacrjournals.org/cancerres/article-abstract/83/1/34/711842/Spatial-Transcriptomic-Analysis-of-a-Diverse?redirectedFrom=fulltext)
