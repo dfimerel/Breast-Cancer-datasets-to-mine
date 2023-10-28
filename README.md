@@ -1,6 +1,6 @@
 # Breast-Cancer-datasets-to-mine
 
-The aim is to create a collection of datasets with breast cancer samples to mine and explore further.
+Collection of datasets with breast cancer samples to mine and explore.
 
 
 ### cBioPortal & ICGC 
