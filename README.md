@@ -48,6 +48,7 @@ Here you can find single-cell datasets
 * [Single-cell RNA-seq enables comprehensive tumour and immune cell profiling in primary breast cancer](https://www.nature.com/articles/ncomms15081)
 * [A single-cell analysis of breast cancer cell lines to study tumour heterogeneity and drug response](https://www.nature.com/articles/s41467-022-29358-6)
 * [Single cell atlas identifies lipid-processing and immunomodulatory endothelial cells in healthy and malignant breast](https://www.nature.com/articles/s41467-022-33052-y)
+* [A single-cell atlas of the healthy breast tissues reveals clinically relevant clusters of breast epithelial cells] (https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(21)00035-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379121000355%3Fshowall%3Dtrue)
 
 ### Spatial transcriptomics datasets
 Here you can find spatial transcriptomics datasets
