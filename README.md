@@ -40,6 +40,7 @@ Here you can find datasets with different molecular data in metastatic BC
 
 ### Single-cell transcriptomics (and genomics) datasets
 Here you can find single-cell datasets
+* [Clinical and biological heterogeneities in triple-negative breast cancer reveals a non-negligible role of HER2-low](https://breast-cancer-research.biomedcentral.com/articles/10.1186/s13058-023-01639-y)
 * [A single-cell and spatially resolved atlas of human breast cancers](https://www.nature.com/articles/s41588-021-00911-1)
 * [Single-cell RNA sequencing reveals cell heterogeneity and transcriptome profile of breast cancer lymph node metastasis](https://www.nature.com/articles/s41389-021-00355-6#Abs1)
 * [A single-cell RNA expression atlas of normal, preneoplastic and tumorigenic states in the human breast](https://www.embopress.org/doi/full/10.15252/embj.2020107333)
