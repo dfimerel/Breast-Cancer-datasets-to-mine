@@ -62,3 +62,4 @@ Here you can find spatial transcriptomics datasets
 ### Multi-omics datasets
 Here you can find multi-omics datasets that cannot be added in any category above
 * [Converging and evolving immuno-genomic routes toward immune escape in breast cancer](https://www.nature.com/articles/s41467-024-45292-1)
+* [Single-cell and spatial profiling identify three response trajectories to pembrolizumab and radiation therapy in triple negative breast cancer](https://www.cell.com/cancer-cell/abstract/S1535-6108(23)00440-3#%20)
