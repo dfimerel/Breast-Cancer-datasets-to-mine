@@ -63,6 +63,9 @@ Here you can find spatial transcriptomics datasets
 Here you can find multi-omics datasets that cannot be added in any category above
 * [Converging and evolving immuno-genomic routes toward immune escape in breast cancer](https://www.nature.com/articles/s41467-024-45292-1)
 * [Single-cell and spatial profiling identify three response trajectories to pembrolizumab and radiation therapy in triple negative breast cancer](https://www.cell.com/cancer-cell/abstract/S1535-6108(23)00440-3#%20)
+* [Cancer-associated fibroblast classification in single-cell and spatial proteomics data](https://www.nature.com/articles/s41467-023-39762-1)
 
 ### Imaging techniques
 * [Spatial predictors of immunotherapy response in triple-negative breast cancer](https://www.nature.com/articles/s41586-023-06498-3)
+* [Distinct spatial immune microlandscapes are independently associated with outcomes in triple-negative breast cancer](https://www.nature.com/articles/s41467-023-37806-0)
+
